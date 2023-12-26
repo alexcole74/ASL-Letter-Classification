@@ -14,24 +14,24 @@ Download ASL Dataset (I got mine from kaggle.com). If not done already, separate
 
 # Steps
 
-(1) Prepare and separate image data
+1. Prepare and separate image data
 
-(2) Import and install necessary dependencies
+2. Import and install necessary dependencies
 
-(3) choose variables such as model type, number of epochs for training, and number of classes
+3. choose variables such as model type, number of epochs for training, and number of classes
 
-(4) Write/tweak train_model, set_parameter_requires_grad, and initialize_model functions
+4. Write/tweak train_model, set_parameter_requires_grad, and initialize_model functions
 
-(5) Initialize the model
+5. Initialize the model
 
-(6) Do data augmentation and transformation for training and plot to verify it's working 
+6. Do data augmentation and transformation for training and plot to verify it's working 
 
 <img width="677" alt="Screenshot 2023-12-26 at 6 18 45 PM" src="https://github.com/alexcole74/ASL-Letter-Classification/assets/154842337/c7e8553f-3d8a-4cef-9073-df5518dc23d1">
 
-(7) Train and evaluate, assessing each epoch's accuracy and losses
+7. Train and evaluate, assessing each epoch's accuracy and losses
 
-(8) Train with scratch model and compare 
+8. Train with scratch model and compare 
 
 <img width="681" alt="Screenshot 2023-12-26 at 6 17 46 PM" src="https://github.com/alexcole74/ASL-Letter-Classification/assets/154842337/15cf7740-38c7-4d34-b2b7-e6d3825e2ed3">
 
-(9) Interpret data and faulties in algorithm -> try and improve for the future
+9. Interpret data and faulties in algorithm -> try and improve for the future
