@@ -26,6 +26,6 @@ Download ASL Dataset (I got mine from kaggle.com). If not done already, separate
 
 (7) Train and evaluate, assessing each epoch's accuracy and losses
 
-(8) Train with scratch model and compare
+(8) Train with scratch model and compare (Progress.png)
 
-(9) Interpret data and faulties in algorithm -> try and improve for the future
+(9) Interpret data and faulties in algorithm (Results.png) -> try and improve for the future
